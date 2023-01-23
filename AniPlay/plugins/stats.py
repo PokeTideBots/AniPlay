@@ -1,5 +1,6 @@
 import requests as r
 import random
+import matplotlib.pyplot as plt
 from string import hexdigits
 cache = []
 
